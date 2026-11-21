@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.sqlite3
+.env
+runs/
+data/vector_store/
+data/model_cache/
+.streamlit/secrets.toml
+.pytest_cache/
+dist/

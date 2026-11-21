@@ -1,0 +1,2 @@
+"""WorkMate AI - privacy-first workplace memory assistant."""
+__version__ = "1.0.0"
